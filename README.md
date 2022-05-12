@@ -26,7 +26,7 @@ curl --location --request POST 'http://127.0.0.1:8000/chatlogs/?user_id=abcd' \
 
 Curl for GET method
 ```
-curl --location --request GET 'http://127.0.0.1:8000/chatlogs/?limit=10&user_id=abcdefghijklmnopqrstuvwxyz'
+curl --location --request GET 'http://127.0.0.1:8000/chatlogs/?limit=10&user_id=abcd'
 ```
 
 Curl for DELETE method

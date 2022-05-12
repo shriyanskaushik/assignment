@@ -1,5 +1,7 @@
 # assignment
 
+# The project has been developed through python language and django rest framework.
+
 To run the project smoothly, run the following command
 ```
 pip install -r requirements.txt
